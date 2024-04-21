@@ -1,0 +1,15 @@
+{
+  "data" : [
+    {
+      "filename" : "contents.xcworkspacedata",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
